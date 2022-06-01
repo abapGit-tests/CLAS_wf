@@ -27,8 +27,13 @@
    </DESCRIPTIONS>
    <ATTRIBUTES>
     <item>
+     <CMPNAME>MV_PRIVATE_WF_KEY</CMPNAME>
+     <ATTKEYFLD>X</ATTKEYFLD>
+    </item>
+    <item>
      <CMPNAME>MV_WF_KEY</CMPNAME>
      <ATTKEYFLD>X</ATTKEYFLD>
+     <EXPOSURE>2</EXPOSURE>
     </item>
    </ATTRIBUTES>
   </asx:values>
